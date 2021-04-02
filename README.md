@@ -1,2 +1,2 @@
-# batken-kabar.kg.io
+# batken-kabar.github.io
 Сонку Жанылыктар
